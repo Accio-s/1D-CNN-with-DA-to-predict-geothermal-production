@@ -1,0 +1,1 @@
+# 1D-CNN-with-DA-to-predict-geothermal-production
